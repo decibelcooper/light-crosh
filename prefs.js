@@ -1,6 +1,6 @@
 term_.prefs_.resetAll();
 
-term_.prefs_.set("background-color", "#ffffff");
-term_.prefs_.set("foreground-color", "#373b41");
-term_.prefs_.set("cursor-color",     "#373b41");
-term_.prefs_.set("color-palette-overrides", ["#1d1f21","#cc6666","#b5bd68","#f0c674","#81a2be","#b294bb","#8abeb7","#c5c8c6","#969896","#cc6666","#b5bd68","#f0c674","#81a2be","#b294bb","#8abeb7","#ffffff"]);
+term_.prefs_.set("background-color", "#fdf6e3");
+term_.prefs_.set("foreground-color", "#586e75");
+term_.prefs_.set("cursor-color",     "#586e75");
+term_.prefs_.set("color-palette-overrides", ["#002b36","#dc322f","#859900","#b58900","#268bd2","#6c71c4","#2aa198","#93a1a1","#657b83","#dc322f","#859900","#b58900","#268bd2","#6c71c4","#2aa198","#fdf6e3"]);
